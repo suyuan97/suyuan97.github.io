@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://suyuan97.github.io/suyuan/sitemap.xml
+Sitemap: https://suyuan97.github.io/suyuan97//sitemap.xml
