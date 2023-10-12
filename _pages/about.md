@@ -2,25 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 柳苏源 [ljo214 su55 jyɐn35]
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: SuyuanLiu_profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>pronouns: she/her</p>
+    <p>suyuan.liu[at]ubc.ca</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm a PhD candidate at the [Linguistics Department at the University of British Columbia](https://linguistics.ubc.ca). My research interests revolve around the relationship between speech perception and production. Specifically, I'm interested in the role one's own production plays in their perception of others.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My dissertation looks into the relative contribution of listener-talker similarity, prototypicality, standardness and articulator movements in speech processing. My supervisor is [Molly Babel](https://linguistics.ubc.ca/profile/molly-babel/). My committee members are [Márton Sóskuthy](https://soskuthy.github.io/), [Jian Zhu](https://lingjzhu.github.io/) and [Alexis Black](https://audiospeech.ubc.ca/faculty-staff/academic-faculty/alexis-black/).
