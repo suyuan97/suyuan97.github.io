@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses I TA'ed for
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 #### University of British Columbia
@@ -19,4 +19,4 @@ nav_order: 5
   2022 T1, 2022 T2
 
 - [LING313: Intro to Phonetics and Speech Science](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=313)\\
-  2021 T1
+  2021 T1, 2024 T1
