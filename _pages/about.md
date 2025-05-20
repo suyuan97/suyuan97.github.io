@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>pronouns: she/her</p>
-    <p>suyuan [dot] liu [at] ubc [dot] ca</p>
+    <p>suyuan97 [at] student [dot] ubc [dot] ca</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
