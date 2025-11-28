@@ -401,7 +401,7 @@ ninja.data = [{
             },},{id: "news-i-presented-a-talk-at-nwav-53-in-ann-arbor-michigan-titled-rethinking-standard-mandarin-introducing-the-mandarin-english-language-interview-meli-corpus",
           title: '🕊 I presented a talk at NWAV 53 in Ann Arbor, Michigan titled...',
           description: "",
-          section: "News",},{id: "news-i-will-be-at-the-189th-asa-meeting-at-honolulu-hawaii-presenting-a-poster-3psc18-titled-acoustic-consistency-of-mandarin-english-bilingual-voices-evidence-from-the-mandarin-english-language-interview-meli-corpus-amp-lt-a-amp-gt",
+          section: "News",},{id: "news-i-will-be-at-the-189th-asa-meeting-at-honolulu-hawaii-presenting-a-poster-3psc18-titled-acoustic-consistency-of-mandarin-english-bilingual-voices-evidence-from-the-mandarin-english-language-interview-meli-corpus",
           title: '🌺 I will be at the 189th ASA Meeting at Honolulu, Hawaii presenting...',
           description: "",
           section: "News",},{id: "news-i-will-be-at-the-2026-lsa-annual-meeting-participating-in-the-language-conflict-and-peace-building-symposium",
