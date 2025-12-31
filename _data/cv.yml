@@ -8,7 +8,7 @@
     - name: Languages
       value: Mandarin (Native), English (Fluent), Japanese (Advanced, JLPT N1)
     - name: Computing
-      vakue: Python, R, LATEX, Praat, C++
+      value: Python, R, LATEX, Praat, C++
 
 - title: Education
   type: time_table
@@ -41,7 +41,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="">MELI Corpus</a>
+    - title: <a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_bklUFCk6yZVjmia">MELI Corpus</a>
       year: 2024-now
       description: An open-access Mandarin-English Language Interview Corpus.
 
