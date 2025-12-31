@@ -398,11 +398,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-presented-a-talk-at-nwav-53-in-ann-arbor-michigan-titled-rethinking-standard-mandarin-introducing-the-mandarin-english-language-interview-meli-corpus",
-          title: '🕊 I presented a talk at NWAV 53 in Ann Arbor, Michigan titled...',
+            },},{id: "news-announcement-20251107",
+          title: 'Announcement_20251107',
           description: "",
-          section: "News",},{id: "news-i-will-be-at-the-189th-asa-meeting-at-honolulu-hawaii-presenting-a-poster-3psc18-titled-acoustic-consistency-of-mandarin-english-bilingual-voices-evidence-from-the-mandarin-english-language-interview-meli-corpus",
-          title: '🌺 I will be at the 189th ASA Meeting at Honolulu, Hawaii presenting...',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20251107/";
+            },},{id: "news-i-presented-a-poster-at-the-189th-asa-meeting-at-honolulu-hawaii-titled-acoustic-consistency-of-mandarin-english-bilingual-voices-evidence-from-the-mandarin-english-language-interview-meli-corpus-3psc18",
+          title: '🌺 I presented a poster at the 189th ASA Meeting at Honolulu, Hawaii...',
+          description: "",
+          section: "News",},{id: "news-i-put-together-a-new-teaching-game-the-ta-simulator-a-15-week-glimpse-into-the-choices-and-constraints-tas-navigate-behind-the-scenes",
+          title: '👩🏻‍🏫 I put together a new teaching game: The TA Simulator, a 15-week...',
           description: "",
           section: "News",},{id: "news-i-will-be-at-the-2026-lsa-annual-meeting-participating-in-the-language-conflict-and-peace-building-symposium",
           title: '🕊 I will be at the 2026 LSA Annual Meeting participating in the...',
