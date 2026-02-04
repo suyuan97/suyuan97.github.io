@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-04'
 papers:
   YElC4lkAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -13,6 +13,10 @@ papers:
     citations: 3
     title: A comparison of voice similarity through acoustics, human perception and deep neural network (DNN) speaker verification systems
     year: '2024'
+  YElC4lkAAAAJ:Tyk-4Ss8FVUC:
+    citations: 1
+    title: How do masks affect the way we speak
+    year: '2021'
   YElC4lkAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: "Disentangling varying degrees of contrast for Mandarin/in/-/i\u014B/rhymes through word-level patterns"
@@ -34,6 +38,6 @@ papers:
     title: Production and perception of Mandarin /i/-nasal rhymes
     year: '2023'
   YElC4lkAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 3
     title: Pairwise Evaluation of Accent Similarity in Speech Synthesis
     year: '2025'
