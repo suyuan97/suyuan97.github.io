@@ -409,8 +409,11 @@ ninja.data = [{
           section: "News",},{id: "news-i-put-together-a-new-teaching-game-the-ta-simulator-a-15-week-glimpse-into-the-choices-and-constraints-tas-navigate-behind-the-scenes",
           title: '👩🏻‍🏫 I put together a new teaching game: The TA Simulator, a 15-week...',
           description: "",
-          section: "News",},{id: "news-i-will-be-at-the-2026-lsa-annual-meeting-participating-in-the-language-conflict-and-peace-building-symposium",
-          title: '🕊 I will be at the 2026 LSA Annual Meeting participating in the...',
+          section: "News",},{id: "news-i-participated-in-the-language-conflict-and-peace-building-symposium-at-the-2026-lsa-annual-meeting-participating",
+          title: '🕊 I participated in the Language, Conflict and Peace-Building Symposium at the 2026...',
+          description: "",
+          section: "News",},{id: "news-i-will-introduce-the-mandarin-english-language-interview-meli-corpus-at-lrec-2026-at-session-p5-2-2",
+          title: '📚 I will introduce the Mandarin-English Language Interview (MELI) Corpus at LREC 2026...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -458,6 +461,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-arxiv',
+        title: 'arXiv',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://arxiv.org/a/liu_s_13.html", "_blank");
+        },
+      },{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
