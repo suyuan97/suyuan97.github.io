@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🕊 I will be at the 2026 LSA Annual Meeting participating in <a href="https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/-1">the Language, Conflict and Peace-Building Symposium</a>.
+🕊 I participated in <a href="https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/-1">the Language, Conflict and Peace-Building Symposium</a> at the 2026 LSA Annual Meeting participating.
