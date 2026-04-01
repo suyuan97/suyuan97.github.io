@@ -6,7 +6,7 @@ subtitle: 柳苏源 [ljo214 su55 jyɐn35]
 
 profile:
   align: right
-  image: SuyuanLiu_profile.jpeg
+  image: SuyuanLiu_profile.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>pronoun: she/her</p> 
