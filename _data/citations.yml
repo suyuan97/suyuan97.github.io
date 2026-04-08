@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-04-08'
 papers:
   YElC4lkAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -21,6 +21,10 @@ papers:
     citations: 0
     title: "Disentangling varying degrees of contrast for Mandarin/in/-/i\u014B/rhymes through word-level patterns"
     year: Unknown Year
+  YElC4lkAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: 'Introducing MELI: the Mandarin-English Language Interview Corpus'
+    year: '2026'
   YElC4lkAAAAJ:d1gkVwhDpl0C:
     citations: 2
     title: Evaluating the accuracy of forced alignment across Mandarin varieties
