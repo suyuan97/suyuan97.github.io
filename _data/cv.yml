@@ -41,8 +41,8 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_bklUFCk6yZVjmia">MELI Corpus</a>
-      year: 2024-now
+    - title: <a href="https://meli-corpus.readthedocs.io/en/latest/">MELI Corpus</a>
+      year: 2024-2026
       description: An open-access Mandarin-English Language Interview Corpus.
 
 - title: Grants, Honors and Awards

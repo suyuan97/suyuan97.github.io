@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: 柳苏源 [ljo214 su55 jyɐn35]
+subtitle: 柳苏源 [ljo214 su55 jyɐn35] (she/her)
 
 profile:
   align: right
   image: SuyuanLiu_profile.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>pronoun: she/her</p> 
-    <p>suyuan97 [at] student [dot] ubc [dot] ca</p>
+    <p></p> 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,9 +25,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a PhD candidate at the [Linguistics Department at the University of British Columbia](https://linguistics.ubc.ca). My dissertation looks into the contribution of voice similarity and perceived standardness in speech processing. Do we, as listeners, have an easier time processing speech that is (1) perceived as more standard and (2) in a voice similar to our own? How do we define stadardness and similarity?
+Hello! I'm a PhD candidate at the [Linguistics Department at the University of British Columbia](https://linguistics.ubc.ca). My dissertation, titled *"Where Ideology Meets the Signal: Language Standardness, Voice Similarity, and Intelligibility in Bilingual Speech Processing''*, looks into the contribution of voice similarity and perceived standardness in speech processing. Do we, as listeners, have an easier time processing speech that is (1) perceived as more standard and (2) in a voice similar to our own? How do we define standardness and similarity?
 
 My supervisor is [Molly Babel](https://linguistics.ubc.ca/profile/molly-babel/). My committee members are [Márton Sóskuthy](https://soskuthy.github.io/), [Jian Zhu](https://lingjzhu.github.io/) and [Alexis Black](https://audiospeech.ubc.ca/faculty-staff/academic-faculty/alexis-black/).
+
+📧 You can reach me at firstname97 [&aelig;t] student․ubc․ca
+
+#### 🎤 Here for MELI?
+
+The Mandarin–English Language Interview (MELI) Corpus is at the heart of my dissertation. It brings together about 30 hours of parallel interviews with 51 Mandarin–English bilingual speakers, recorded in both languages as they share their thoughts and experiences with language. 
+
+As you explore the corpus, I hope you’ll take a moment to appreciate the people behind the data: their willingness to share their voices, perspectives, and stories. Please engage with the material with care and curiosity, and carry that spirit with you as you explore the MELI Corpus [here](https://meli-corpus.readthedocs.io/en/latest/).
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
