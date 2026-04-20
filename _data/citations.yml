@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-20'
 papers:
   YElC4lkAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: VARIATION IN PERCEPTION AND PRODUCTION OF/s/-/S/IN ENGLISH
     year: Unknown Year
   YElC4lkAAAAJ:9yKSN-GCB0IC:
-    citations: 15
+    citations: 17
     title: 'Nasal coda neutralization in Shanghai Mandarin: Articulatory and perceptual evidence'
     year: '2020'
   YElC4lkAAAAJ:IjCSPb-OGe4C:
@@ -25,10 +25,18 @@ papers:
     citations: 0
     title: 'Introducing MELI: the Mandarin-English Language Interview Corpus'
     year: '2026'
+  YElC4lkAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: 'Best practices in evaluating forced-alignment accuracy: The case of Mandarin varieties'
+    year: '2026'
   YElC4lkAAAAJ:d1gkVwhDpl0C:
     citations: 2
     title: Evaluating the accuracy of forced alignment across Mandarin varieties
     year: '2022'
+  YElC4lkAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: 'MELI: Mandarin-English Language Interview'
+    year: '2026'
   YElC4lkAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: What is similarity? Approaches to the quantification to voice similarity
@@ -38,7 +46,7 @@ papers:
     title: SIMULTANEOUS VOWEL CHANGES IN BRITISH COLUMBIAN ENGLISH
     year: Unknown Year
   YElC4lkAAAAJ:u5HHmVD_uO8C:
-    citations: 1
+    citations: 2
     title: Production and perception of Mandarin /i/-nasal rhymes
     year: '2023'
   YElC4lkAAAAJ:zYLM7Y9cAGgC:
