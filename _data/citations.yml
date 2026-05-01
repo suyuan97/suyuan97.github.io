@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-01'
 papers:
   YElC4lkAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -50,6 +50,6 @@ papers:
     title: Production and perception of Mandarin /i/-nasal rhymes
     year: '2023'
   YElC4lkAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: Pairwise Evaluation of Accent Similarity in Speech Synthesis
     year: '2025'
