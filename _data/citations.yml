@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-04'
 papers:
   YElC4lkAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: 'Nasal coda neutralization in Shanghai Mandarin: Articulatory and perceptual evidence'
     year: '2020'
   YElC4lkAAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 5
     title: A comparison of voice similarity through acoustics, human perception and deep neural network (DNN) speaker verification systems
     year: '2024'
   YElC4lkAAAAJ:Tyk-4Ss8FVUC:
@@ -50,6 +50,6 @@ papers:
     title: Production and perception of Mandarin /i/-nasal rhymes
     year: '2023'
   YElC4lkAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: Pairwise Evaluation of Accent Similarity in Speech Synthesis
     year: '2025'
