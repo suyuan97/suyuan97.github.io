@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-27'
 papers:
   YElC4lkAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: VARIATION IN PERCEPTION AND PRODUCTION OF/s/-/S/IN ENGLISH
     year: Unknown Year
   YElC4lkAAAAJ:9yKSN-GCB0IC:
-    citations: 17
+    citations: 18
     title: 'Nasal coda neutralization in Shanghai Mandarin: Articulatory and perceptual evidence'
     year: '2020'
   YElC4lkAAAAJ:IjCSPb-OGe4C:
@@ -21,9 +21,9 @@ papers:
     citations: 0
     title: "Disentangling varying degrees of contrast for Mandarin/in/-/i\u014B/rhymes through word-level patterns"
     year: Unknown Year
-  YElC4lkAAAAJ:W7OEmFMy1HYC:
+  YElC4lkAAAAJ:WF5omc3nYNoC:
     citations: 0
-    title: 'Introducing MELI: the Mandarin-English Language Interview Corpus'
+    title: 'Introducing MELI: The Mandarin-English Language Interview Corpus.'
     year: '2026'
   YElC4lkAAAAJ:YsMSGLbcyi4C:
     citations: 0
@@ -49,7 +49,11 @@ papers:
     citations: 2
     title: Production and perception of Mandarin /i/-nasal rhymes
     year: '2023'
+  YElC4lkAAAAJ:ufrVoPGSRksC:
+    citations: 1
+    title: "Acoustic consistency of Mandarin\u2013English bilingual voices: Evidence from the Mandarin\u2013English Language Interview (MELI) Corpus"
+    year: '2025'
   YElC4lkAAAAJ:zYLM7Y9cAGgC:
-    citations: 6
+    citations: 7
     title: Pairwise Evaluation of Accent Similarity in Speech Synthesis
     year: '2025'
