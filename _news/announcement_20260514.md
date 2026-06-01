@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📚 I will introduce the Mandarin-English Language Interview (MELI) Corpus at <a href="https://lrec2026.info/conference-programme/conference-programme-day-2/">LREC 2026</a> at session P5.2.2.
+📚 I introduced the Mandarin-English Language Interview (MELI) Corpus at <a href="https://lrec2026.info/">LREC 2026</a>. Check out our proceedings paper <a href="https://doi.org/10.63317/3umiyc4sxwhk">here</a>!

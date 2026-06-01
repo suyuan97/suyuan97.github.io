@@ -23,7 +23,7 @@
           - "Dr. Márton Sóskuthy, Dr. Jian Zhu, Dr. Alexis Black"
         - title: "Dissertation: "
           contents:
-          - 'Where Ideology Meets the Signal: Language Standardness, Voice Similarity, and Intelligibility in Bilingual Speech Processing'
+          - "<a href='https://dx.doi.org/10.14288/1.0452601'>Where Ideology Meets the Signal: Language Standardness, Voice Similarity, and Intelligibility in Bilingual Speech Processing.</a>"
     - title: Visiting researcher at the Department of Chinese and Bilingual Studies (CBS)
       institution: Hong Kong Polytechnic University
       year: 2025
@@ -43,11 +43,15 @@
   contents:
     - title: <a href="https://meli-corpus.readthedocs.io/en/latest/">MELI Corpus</a>
       year: 2024-2026
-      description: An open-access Mandarin-English Language Interview Corpus.
+      description: A 30-hour open-access Mandarin-English Language Interview Corpus.
 
 - title: Grants, Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Awardee to the Language, Conflict, and Peacebuilding Writing Workshop, Linguistic Society of America, hosted by the University of Washington
+        - Best talk at the Language Sciences Postdoctoral and Graduate Research Day, UBC
     - year: 2025
       items:
         - Excellence in Graduate Teaching Assistantship Award, Department of Linguistics, UBC
