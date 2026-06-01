@@ -424,8 +424,11 @@ ninja.data = [{
           section: "News",},{id: "news-i-defended",
           title: '💐 I defended!',
           description: "",
-          section: "News",},{id: "news-i-will-introduce-the-mandarin-english-language-interview-meli-corpus-at-lrec-2026-at-session-p5-2-2",
-          title: '📚 I will introduce the Mandarin-English Language Interview (MELI) Corpus at LREC 2026...',
+          section: "News",},{id: "news-i-introduced-the-mandarin-english-language-interview-meli-corpus-at-lrec-2026-check-out-our-proceedings-paper-here",
+          title: '📚 I introduced the Mandarin-English Language Interview (MELI) Corpus at LREC 2026. Check...',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-attending-the-language-conflict-and-peacebuilding-workshop",
+          title: '✍🏻 I’ll be attending the Language, Conflict and Peacebuilding workshop.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -484,7 +487,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/SuyuanLiu_CV_25oct.pdf", "_blank");
+          window.open("/assets/pdf/SuyuanLiu_CV_26june.pdf", "_blank");
         },
       },{
         id: 'social-email',
