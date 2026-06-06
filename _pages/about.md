@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a PhD candidate at the [Linguistics Department at the University of British Columbia](https://linguistics.ubc.ca). My dissertation, titled *"Where Ideology Meets the Signal: Language Standardness, Voice Similarity, and Intelligibility in Bilingual Speech Processing''*, looks into the contribution of voice similarity and perceived standardness in speech processing. Do we, as listeners, have an easier time processing speech that is (1) perceived as more standard and (2) in a voice similar to our own? How do we define standardness and similarity?
+Hello! I'm recently received my PhD from the [Linguistics Department at the University of British Columbia](https://linguistics.ubc.ca). My dissertation, titled [*"Where Ideology Meets the Signal: Language Standardness, Voice Similarity, and Intelligibility in Bilingual Speech Processing''*](https://dx.doi.org/10.14288/1.0452601), looks into the contribution of voice similarity and perceived standardness in speech processing. Do we, as listeners, have an easier time processing speech that is (1) perceived as more standard and (2) in a voice similar to our own? How do we define standardness and similarity?
 
 My supervisor is [Molly Babel](https://linguistics.ubc.ca/profile/molly-babel/). My committee members are [Márton Sóskuthy](https://soskuthy.github.io/), [Jian Zhu](https://lingjzhu.github.io/) and [Alexis Black](https://audiospeech.ubc.ca/faculty-staff/academic-faculty/alexis-black/).
 
