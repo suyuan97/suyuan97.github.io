@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-08'
 papers:
   YElC4lkAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -13,6 +13,10 @@ papers:
     citations: 5
     title: A comparison of voice similarity through acoustics, human perception and deep neural network (DNN) speaker verification systems
     year: '2024'
+  YElC4lkAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: 'Where ideology meets the signal: language standardness, voice similarity, and intelligibility in bilingual speech processing'
+    year: '2026'
   YElC4lkAAAAJ:Tyk-4Ss8FVUC:
     citations: 1
     title: How do masks affect the way we speak
@@ -22,7 +26,7 @@ papers:
     title: "Disentangling varying degrees of contrast for Mandarin/in/-/i\u014B/rhymes through word-level patterns"
     year: Unknown Year
   YElC4lkAAAAJ:WF5omc3nYNoC:
-    citations: 0
+    citations: 1
     title: 'Introducing MELI: The Mandarin-English Language Interview Corpus.'
     year: '2026'
   YElC4lkAAAAJ:YsMSGLbcyi4C:
