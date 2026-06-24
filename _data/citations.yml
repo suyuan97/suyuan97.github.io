@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-24'
 papers:
   YElC4lkAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -58,6 +58,6 @@ papers:
     title: "Acoustic consistency of Mandarin\u2013English bilingual voices: Evidence from the Mandarin\u2013English Language Interview (MELI) Corpus"
     year: '2025'
   YElC4lkAAAAJ:zYLM7Y9cAGgC:
-    citations: 7
+    citations: 8
     title: Pairwise Evaluation of Accent Similarity in Speech Synthesis
     year: '2025'
