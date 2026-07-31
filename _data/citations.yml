@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-31'
 papers:
   YElC4lkAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: VARIATION IN PERCEPTION AND PRODUCTION OF/s/-/S/IN ENGLISH
     year: Unknown Year
   YElC4lkAAAAJ:9yKSN-GCB0IC:
-    citations: 18
+    citations: 19
     title: 'Nasal coda neutralization in Shanghai Mandarin: Articulatory and perceptual evidence'
     year: '2020'
   YElC4lkAAAAJ:IjCSPb-OGe4C:
-    citations: 6
+    citations: 8
     title: A comparison of voice similarity through acoustics, human perception and deep neural network (DNN) speaker verification systems
     year: '2024'
   YElC4lkAAAAJ:LkGwnXOMwfcC:
@@ -58,6 +58,6 @@ papers:
     title: "Acoustic consistency of Mandarin\u2013English bilingual voices: Evidence from the Mandarin\u2013English Language Interview (MELI) Corpus"
     year: '2025'
   YElC4lkAAAAJ:zYLM7Y9cAGgC:
-    citations: 8
+    citations: 10
     title: Pairwise Evaluation of Accent Similarity in Speech Synthesis
     year: '2025'
